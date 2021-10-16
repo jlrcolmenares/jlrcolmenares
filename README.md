@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jose Luis
-[Website](https://joseluisramon.com) - [Twitter](https://twitter.com/joseluisramon_) - [Linkedin](https://www.linkedin.com/in/joseluisramoncolmenares/)
+[Website](https://jlrcol.me) - [Twitter](https://twitter.com/jlrcolmenares) - [Linkedin](https://www.linkedin.com/in/jlrcolmenares/)
 ----------------------------
 <!--
 **joseluisramon/joseluisramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
