@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>José Luis Colmenares</title>
+      <link>https://jlrcolmenares.github.io/</link>
+      <description>@jlrcolmenares blog</description>
+      <generator>Zola</generator>
+      <language>es</language>
+      <atom:link href="https://jlrcolmenares.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 31 Dec 2025 11:36:33 +0800</lastBuildDate>
+      <item>
+          <title>Typography styles</title>
+          <pubDate>Wed, 31 Dec 2025 11:36:33 +0800</pubDate>
+          <author>Unknown</author>
+          <link>https://jlrcolmenares.github.io/posts/00-typography/</link>
+          <guid>https://jlrcolmenares.github.io/posts/00-typography/</guid>
+          <description xml:base="https://jlrcolmenares.github.io/posts/00-typography/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide, and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Inline styles：&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;strong&lt;&#x2F;strong&gt;, &lt;em&gt;emphasis&lt;&#x2F;em&gt;, &lt;em&gt;&lt;strong&gt;strong and emphasis&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;,&lt;code&gt;code&lt;&#x2F;code&gt;, &lt;u&gt;underline&lt;&#x2F;u&gt;, &lt;del&gt;strikethrough&lt;&#x2F;del&gt;, :joy:🤣, $\LaTeX$, X^2^, H~2~O, ==highlight==, &lt;a href=&quot;https:&#x2F;&#x2F;example.com&quot;&gt;Link&lt;&#x2F;a&gt;, and image:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;picsum.photos&#x2F;600&#x2F;400&#x2F;?random&quot; alt=&quot;img&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Headings:&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;&#x2F;h5&gt;
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;&#x2F;h6&gt;
+&lt;p&gt;Table:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align: left&quot;&gt;Left-Aligned&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: center&quot;&gt;Center Aligned&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: right&quot;&gt;Right Aligned&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;col 3 is&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;some wordy text&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;col 2 is&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;centered&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;$12&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: left&quot;&gt;zebra stripes&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;$1&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Lists:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unordered list item 1.&lt;&#x2F;li&gt;
+&lt;li&gt;Unordered list item 2.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;ordered list item 1.&lt;&#x2F;li&gt;
+&lt;li&gt;ordered list item 2.
+&lt;ul&gt;
+&lt;li&gt;sub-unordered list item 1.&lt;&#x2F;li&gt;
+&lt;li&gt;sub-unordered list item 2.
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+something is DONE.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+something is NOT DONE.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Syntax Highlighting:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;javascript&quot; class=&quot;language-javascript &quot;&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;const num1 = prompt(&amp;quot;Enter first number&amp;quot;);
+const num2 = prompt(&amp;quot;Enter second number&amp;quot;);
+const sum = parseInt(num1, 10) + parseInt(num2, 10); &amp;#x2F;&amp;#x2F; &amp;quot;+&amp;quot; means &amp;quot;add&amp;quot;
+alert(&amp;quot;Sum = &amp;quot; + sum);  &amp;#x2F;&amp;#x2F; &amp;quot;+&amp;quot; means combine into a string
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;From &lt;a href=&quot;https:&#x2F;&#x2F;www.lipsum.com&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.lipsum.com&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;2&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;From &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Apple&quot;&gt;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Apple&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</description>
+      </item>
+      <item>
+          <title>Construyendo un Dashboard con Grafana</title>
+          <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jlrcolmenares.github.io/posts/03-contruyendo-dashboard-con-grafana/</link>
+          <guid>https://jlrcolmenares.github.io/posts/03-contruyendo-dashboard-con-grafana/</guid>
+          <description xml:base="https://jlrcolmenares.github.io/posts/03-contruyendo-dashboard-con-grafana/">&lt;p&gt;En este artículo estaré realizando una explicación extensa de un proyecto que desarrollé la materia Infraestructura Avanzada de Redes de Sensores, parte del Máster en Sistemas Inteligentes en Energía y Transporte, Especialización en Smart Cities. Se trata de una sistema de Distribución de Agua en una Ciudad.&lt;&#x2F;p&gt;
+&lt;p&gt;El enunciado del problema fue el siguiente: &lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Se requiere diseñar una red de contadores de agua. En este caso, la red es muy homogénea. Una vez definido un contador tienes definidos todos los nodos. Así que, en este caso, la problemática que tienes que trabajar es la cantidad de elementos. Cuando simules la red, debes resolver cómo lo vas a hacer el registro para una cantidad elevada de elementos (usando las formas normales explicadas en bases de datos) y cómo harás el mostrado de datos, que permita tener medidas específicas de un contador, así como datos acumulados para una barriada&#x2F;ciudad entera.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Una explicación del proyecto en vídeo se encuentra aquí&lt;&#x2F;p&gt;
+&lt;div  style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;UO6tl2n1UvE?si=SI6lS7oNImGKEi60&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;   
+&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;1-consideraciones-iniciales&quot;&gt;1. Consideraciones Iniciales&lt;&#x2F;h2&gt;
+&lt;p&gt;&amp;lt;FIGURA 1: ACCCIONA&amp;gt;&lt;&#x2F;p&gt;
+&lt;p&gt;En la Figura 1 se observa un ejemplos de cómo se implementa una red inteligente de agua. En dicho ejemplo, se observa que esta red le permite a la empresa de distribución de agua realizar la medición de los medidores de agua ubicados en esa ciudad. Para ello, se utilizan diversas redes de comunicación, como fibra óptica o GPRS.&lt;&#x2F;p&gt;
+&lt;p&gt;El objetivo es diseñar un sistema similar al presentado en la Figura 1. Profundizando en el tipo en los sensores, redes y protocolos. Generando a su vez una simulación que permita observar como se comportaría el sistema.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;1-1-instrumentos-de-medicion-de-agua&quot;&gt;1.1. Instrumentos de Medicion de Agua&lt;&#x2F;h3&gt;
+&lt;p&gt;&amp;lt;FIGURA 2: Alguien midioendo&amp;gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Por normal general, los contadores de agua deben estar ubicados a nivel de la calle, de forma que la empresa encargada de la medición del agua pueda tomar sus medidas sin necesidad de acceder a los pisos. En el caso de edificios residenciales, los contadores de agua usualmente están ubicados en un cuarto de servicios, distribuido por medio de baterías que permiten organizar y hacer accesibles todos los contadores de cada unidad residencial desde un mismo lugar, como se muestra en la Figura 2. En dicha Figura también se observa la forma tradicional en la que se realiza la medición: por medio de un operador contratado por la empresa, cuya función era ir mensualmente, residencia por residencia, tomando nota de la medida de cada uno de los contadores.&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;lt;FIGURA 3: Single meter&amp;gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Los contadores de agua residencial usualmente están hechos en bronce, internamente tiene un mecanismo que rota cuando el agua pasa a través de él. Suelen ser contadores volumétricos, es decir, que una vuelta del embolo interior representa un volumen de líquido específico. La rotación del émbolo activa a su vez un suiche reed, en donde cada pulso del suiche corresponde a una cantidad precisa de litros de agua.&lt;&#x2F;p&gt;
+&lt;p&gt;La pieza plástica que está adosada encima del contador en la Figura 3 tiene tantos los mecanismos para la lectura en sitio, es decir, los números rotativos, como el suiche reed con su mecanismo de transmisión. En la Figura también se observa un cable el cual llevaría la información del contador a un bus me medición, como los puede ser M-bus, Modbus, etc (Se hacen a medida).&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;1-2-antecendentes&quot;&gt;1.2. Antecendentes&lt;&#x2F;h3&gt;
+&lt;p&gt;Antes de empezar el desarrollo de este trabajo es importante repasar algunos proyectos sobre redes inteligentes de agua se ha realizado en la última década en España, por ejemplo:&lt;&#x2F;p&gt;
+&lt;p&gt;El grupo Agua de Valencia indica que desde 2012 tiene implementado un sistema de Telegestión de Agua. En un vídeo, indican que su topología es la siguiente:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;En el punto más exterior de su red tienen a los contadores inteligentes, los cuales se conectan entre sí por medio de un bus. Este bus lleva sus lecturas a un concentrador. Estas lecturas se envían semanalmente a centro de medición por medio de radio.&lt;&#x2F;li&gt;
+&lt;li&gt;La empresa Acciona, a la cual hice referencia anteriormente habla aquí acerca de su proyecto conjunto con Aguas de Burgos, para el cual recibió financiamiento europeo.
+Adicional a esto, el Estado Español aprobó una ley en la cual indica que todos los contadores de agua con más de 12 años de antigüedad tienen 5 años para renovarse. Esto indica que la pertinencia en el desarrollo de este proyecto es más que necesaria actualmente. Más información al respecto aquí.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2-diseno-de-sistema&quot;&gt;2. Diseño de Sistema&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;2-1-instrumentacion&quot;&gt;2.1. Instrumentacion&lt;&#x2F;h3&gt;
+&lt;p&gt;En el mercado europeo existen múltiples fabricantes de contadores de agua, por lo que se disponen de muchas opciones en el mercado con prestaciones similares. Para este proyecto se ha seleccionado un contador marca Abering, modelo WS de chorro múltiple, pre equipado para tele medición. En la Figura 3 se observa el contador seleccionado.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;2-2-comunicacion&quot;&gt;2.2. Comunicacion&lt;&#x2F;h3&gt;
+&lt;p&gt;En la Figura 5 se observa un ejemplo de la topología que usualmente se utiliza para realizar la tele-medición de los contadores de una residencia de varios pisos. Puede observarse como los medidores se conectan entre si por medio de un bus (en ese caso M-bus). Luego, esa señal llega a un maestro que se encarga de concentrar las mediciones de todos los sensores. Este módulo maestro puede tener capacidad GSM, y enviar a la empresa de gestión de agua toda la información de los contadores conectados al bus por medio de GPRS o RS232, como se muestra en la Figura.&lt;&#x2F;p&gt;
+&lt;p&gt;Una alternativa para el sistema alámbrico de medición es hacerlo por medio de una red inalámbrica, por ejemplo, LoRaWan. En la Figura 6, se observa como la topología que sigue la red es equivalente a la que se tenía en la Figura 5, ya que las mediciones de varios sensores se unen en un concentrador. Luego de que son agrupadas, se transmiten a un centro de datos para su análisis.&lt;&#x2F;p&gt;
+&lt;p&gt;Sabiendo entonces que se tienen soluciones equivalentes para el mismo problema, se realizó un análisis para determinar cuál de los dos protocolos se utilizaría para construir la red de tele medición.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;3-seleccion-de-red-de-comunicaciones&quot;&gt;3. Selección de Red de Comunicaciones&lt;&#x2F;h3&gt;
+&lt;p&gt;En la sección anterior se indicó que el costo de los contadores era un costo fijo, ya que casi todos los contadores residenciales disponibles en España tienen un costo aproximado de 35 euros. Los costos variables dentro del proyecto serán aquellos relacionados con los elementos que se necesitan para implementar la red de comunicación&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Opcion 1: Solución M-Bus&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;resize_image(&amp;quot;..&#x2F;static&#x2F;images&#x2F;03_mbus_simple_network.jpeg&amp;quot;, width=560, height=315, op=&amp;quot;fit&amp;quot;, format=&amp;quot;jpeg&amp;quot;, quality=100)&lt;&#x2F;p&gt;
+&lt;p&gt;Para la solución basada en M-bus se consideró utilizar el concentrador que se muestra en la Figura 7. Es un convertidor Marca Decode, Modelo MM20-GSM.  El cual realizar lecturas de hasta 20 esclavos M-bus. En Sevilla la mayoría de las residencias tiene menos de 20 pisos, por lo tanto, este concentrador permitiría agrupar los medidores de agua de un edificio. Lo cual es muy bueno al momento de sectorizar las mediciones.&lt;&#x2F;p&gt;
+&lt;p&gt;Dentro de sus prestaciones más interesantes está la posibilidad de realizar la configuración de los mensajes que se enviarán vía GSM por medio de una interfaz de usuario. Esto permite configurar el mensaje SMS únicamente con la información de mayor utilidad para la empresa de distribución.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Opcion 2: Solución LoRaWan&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Para la solución basada en LoRaWan tiene que adosar un módulo de transmisión LoRa al medidor de agua. Esto hace que su precio sea ligeramente superior al medidor que tiene un módulo M-bus. Se profundizará en esto al final de esta sección.&lt;&#x2F;p&gt;
+&lt;p&gt;Los concentradores LoRaWan permiten trabajar con muchos más dispositivos que los que los M-bus. Por ejemplo, el concentrador Marca Ursalink, Modelo UG87, puede trabajar hasta con 2000 dispositivos LoRaWan. Esto reduce en gran medida la cantidad de concentradores necesarios para implementar la red. Sin embargo, requiere de una instalación más complicada, ya que los lectores LoRaWan debería tener línea directa con el concentrador.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;4-estimacion-de-costos&quot;&gt;4. Estimación de Costos&lt;&#x2F;h2&gt;
+&lt;p&gt;Para poder estimar el costo de la red se decidió limitar geográficamente el área que se quería atender en esta primera etapa. Para ello fue planteada la siguiente pregunta&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;¿Cuánto me costaría implementar un sistema de tele medición de agua en el Barrio de Triana en Sevilla?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;En primer lugar, se quería confirmar si el alcance de los concentradores LoRaWan podría cubrir la zona de Triana. Las especificaciones del concentrador considerado dicen que tiene un alcance de hasta 11km, considerando que los edificios del barrio están contenidos en un área menor a 1.87km² se puede calcular que un concentrador es más que suficiente.&lt;&#x2F;p&gt;
+&lt;p&gt;Sin embargo, la cantidad de habitantes en Triana es de aproximadamente 49mil personas. Hacer el cálculo de como dividir esas personas en unidades habitacionales, tiendas y bares y demás establecimientos que consumen agua escapa al alcance de este proyecto. Para simplificar decidimos estimar la cantidad de medidores en el área dada a unos 15mil.&lt;&#x2F;p&gt;
+&lt;p&gt;PARTE 2&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Para ir directamente a la práctica visita el repositorio: https:&#x2F;&#x2F;github.com&#x2F;joseluisramon&#x2F;Water-Metering-System&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
+      <item>
+          <title>Cómo configurar Docker para tus proyectos</title>
+          <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jlrcolmenares.github.io/posts/02-como-configurar-docker-para-tus-proyectos/</link>
+          <guid>https://jlrcolmenares.github.io/posts/02-como-configurar-docker-para-tus-proyectos/</guid>
+          <description xml:base="https://jlrcolmenares.github.io/posts/02-como-configurar-docker-para-tus-proyectos/">&lt;blockquote&gt;
+&lt;p&gt;Este post fue escrito originalmente para Platzi. Puedes encontrar la publicación original  &lt;a href=&quot;https:&#x2F;&#x2F;platzi.com&#x2F;tutoriales&#x2F;1272-sql-mysql&#x2F;5749-instalar-mysql-usando-docker-super-sencillo&#x2F;&quot;&gt;aquí&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Hola amigues! El día les traigo un brevísimo tutorial acerca de una de las herramientas más utilizadas para probar paquetes o librería sin necesidad de instalarlas directamente en tu computadora o de cambiar de sistema operativo. &lt;&#x2F;p&gt;
+&lt;p&gt;Estoy hablando de Docker, un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores.&lt;&#x2F;p&gt;
+&lt;p&gt;En el caso de este artículo: Vamos a correr un contenedor de MySQL server.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;docker&quot;&gt;Docker&lt;&#x2F;h2&gt;
+&lt;p&gt;A continuación le presento 2 opciones para instalar Docker:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Docker Desktop: que corre en Windows 10 Versión Professional o Enterprise. Pueden encontrar el tutorial para la instalación &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=BK-C2RofmTE&quot;&gt;aquí&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Docker Toolbox: que corre en cualquier versión de Windows con WSL. Aquí el tutorial de instalación: &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=HhpTsIcNAXo&quot;&gt;aquí&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Los tutoriales no son de mi autoría, pero los revisé y tienen el paso a paso que hace falta para completar la instalación&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mysql&quot;&gt;MySQL&lt;&#x2F;h2&gt;
+&lt;p&gt;Una vez instalado Docker lo que resta es instalar el contenedor de MySQL para poder empezar a configurar una base de datos con el CLI. (Aquí tienen la documentación oficial aquí). Les explico brevemente los pasos que yo realicé:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lo primero es descargar la imagen en tu Docker &lt;code&gt;docker pull mysql&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;El siguiente comando construye un contenedor llamado &lt;em&gt;‘mysql-platzi’&lt;&#x2F;em&gt; con la versión más reciente (mysql:latest) y le asigna al usuario root del sistema, la clave ‘password’: &lt;code&gt;docker run --name mysql-library -e MYSQL_ROOT_PASSWORD=password -p 3306:3306 -d mysql:latest&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Luego puedes acceder a la línea de comando del contenedor de MySQL usando. &lt;code&gt;docker exec -it mysql-platzi bash&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Finalmente, se ingresa base de datos por medio del siguiente comando &lt;code&gt;mysql -u root -ppassword&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Y listo! Por medio de estos pasos ya tiene una instancia de MySQL que puedes utilizar en tus proyectos.&lt;&#x2F;p&gt;
+&lt;p&gt;Espero que les haya sido de utilidad. Si gustan pueden seguirme por Twitter en &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jlrcolmenares&quot;&gt;@jlrcolmenares&lt;&#x2F;a&gt; para más tutoriales y información útil. &lt;&#x2F;p&gt;
+&lt;p&gt;Nos vemos!&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Que son los Sistemas de Información Geográfica</title>
+          <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://jlrcolmenares.github.io/posts/01-que-son-los-sistemas-informacion-geografica/</link>
+          <guid>https://jlrcolmenares.github.io/posts/01-que-son-los-sistemas-informacion-geografica/</guid>
+          <description xml:base="https://jlrcolmenares.github.io/posts/01-que-son-los-sistemas-informacion-geografica/">&lt;p&gt;Una de las materias del segundo cuatrimestre de mi máster se llama &lt;em&gt;Aspectos Transversales de las Smart Cities&lt;&#x2F;em&gt;. La idea de la materia es tratar alguno de los conceptos e ideas que se aplican a las soluciones y tecnologías «smart» así como entender como se integran entre sí.&lt;&#x2F;p&gt;
+&lt;p&gt;La última parte de la asignatura invita a los estudiantes a que hagan una presentación sobre un tema que les interese y que tenga que ver con Smart Cities. En mi caso, decidí hablar sobre los Geographic Information Systems o GIS, ya que está dentro de mi área de interés y además estos sistemas no fueron tratados durante el máster, por lo que pareció buena ídea presentarselos a mis compañeros.&lt;&#x2F;p&gt;
+&lt;p&gt;Así que el día de hoy les traigo la presentación que preparé para ese día.&lt;&#x2F;p&gt;
+&lt;div  style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;rEzhgRLzSDA?si=KRUwytBlshTC8pwZ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;   
+&lt;&#x2F;div&gt;
+
+&lt;p&gt;Todavía me restan por publicar algunas cosas del segundo cuatrimestre del máster (y de las cuales tengo mucho mejor respaldo porque todo lo tenía que compartir a distancia). Estén atentos a nuevas publicaciones.&lt;&#x2F;p&gt;
+&lt;p&gt;Nos vemos pronto!&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
